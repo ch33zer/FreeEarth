@@ -1,0 +1,21 @@
+#map label { width: auto; display:inline; }
+#map img { max-width: none; }
+.statusbar {
+	z-index: 100;
+	position: fixed;
+	width:100%;
+	background-color:#c60f13;
+	border-color:#970b0e;
+	color:white;
+	border-style: solid;
+	border-radius: 1px;
+	font-weight: bold;
+	margin: 0px auto;
+	text-align: center;
+	padding: 0px;
+	display:none;
+}
+
+a.red {
+	color: #B1D523;
+}
